@@ -3,18 +3,11 @@ body {
 }
 
 .panel-body {
-  height: 400px;
+  height: 200px;
   text-align: center;
+  padding: 50px;
 }
 
 p {
   display: none;
-}
-
-.show-definition {
-  display: block;
-}
-
-.show-concept {
-  display: block;
 }
